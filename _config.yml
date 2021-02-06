@@ -100,7 +100,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 links:
   - title: yuanmomo
     url: https://www.yuanmomo.net/
-
+  - title: 悦洋
+    url: http://liuyueyang.top/
 
 timeline:
   - num: 1
